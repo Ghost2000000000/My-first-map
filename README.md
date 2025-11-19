@@ -22,5 +22,4 @@ To build this app, I used the following tools:
 ## Spotlight
 
 
-So, why 250%? Well, what's the point of adding subtle (realistic) terrain, when my goal is to **prepare students to face some aggressive climbs**? _Those hills should look as mean as they feel._
-
+What i want people to notice from my first map is they can go to these type of place themselfs and get other places in the bay they can go to.
